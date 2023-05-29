@@ -1,0 +1,51 @@
+body{
+    position:relative;
+    background-color: rgb(225, 232, 225);
+   
+}
+
+div.image{
+    margin-left: 700px;
+    margin-top:100px;
+    margin-bottom: 50px;
+}
+
+img.avatar{
+    width:30%;
+    border-radius: 50%;;
+}
+
+div.detail{
+    margin-left: 600px;
+}
+
+.usern{
+    width:50%;
+}
+
+.passw{
+    width:50%;
+}
+
+.log{
+    width:51%;
+    background-color: green;
+    color:aliceblue;
+}
+
+div.fpb{
+    margin-left: 600px;
+    margin-right: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(189, 183, 183);
+}
+
+.my-button {
+    margin-right: 270px;
+    background-color: red; 
+    color:aliceblue;
+    border-radius: 10%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
